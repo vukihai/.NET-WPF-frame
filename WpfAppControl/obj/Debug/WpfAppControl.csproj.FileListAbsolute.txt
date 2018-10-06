@@ -1,0 +1,15 @@
+C:\Users\huong\Desktop\WpfAppControl\WpfAppControl\bin\Debug\WpfAppControl.dll
+C:\Users\huong\Desktop\WpfAppControl\WpfAppControl\bin\Debug\WpfAppControl.pdb
+C:\Users\huong\Desktop\WpfAppControl\WpfAppControl\obj\Debug\WpfAppControl.csprojAssemblyReference.cache
+C:\Users\huong\Desktop\WpfAppControl\WpfAppControl\obj\Debug\AppControl.baml
+C:\Users\huong\Desktop\WpfAppControl\WpfAppControl\obj\Debug\AppControl.g.cs
+C:\Users\huong\Desktop\WpfAppControl\WpfAppControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\huong\Desktop\WpfAppControl\WpfAppControl\obj\Debug\WpfAppControl_MarkupCompile.cache
+C:\Users\huong\Desktop\WpfAppControl\WpfAppControl\obj\Debug\WpfAppControl_MarkupCompile.lref
+C:\Users\huong\Desktop\WpfAppControl\WpfAppControl\obj\Debug\Themes\Generic.baml
+C:\Users\huong\Desktop\WpfAppControl\WpfAppControl\obj\Debug\WpfAppControl.g.resources
+C:\Users\huong\Desktop\WpfAppControl\WpfAppControl\obj\Debug\WpfAppControl.Properties.Resources.resources
+C:\Users\huong\Desktop\WpfAppControl\WpfAppControl\obj\Debug\WpfAppControl.csproj.GenerateResource.cache
+C:\Users\huong\Desktop\WpfAppControl\WpfAppControl\obj\Debug\WpfAppControl.csproj.CoreCompileInputs.cache
+C:\Users\huong\Desktop\WpfAppControl\WpfAppControl\obj\Debug\WpfAppControl.dll
+C:\Users\huong\Desktop\WpfAppControl\WpfAppControl\obj\Debug\WpfAppControl.pdb
